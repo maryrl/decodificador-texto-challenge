@@ -30,16 +30,5 @@ A aplicação utiliza as seguintes substituições para criptografia:
   - Escolher entre as funções de criptografia ou descriptografia.
   - Exibir o resultado na tela.
 
-## Extras
 
-- **Botão de Copiar:** Implementação de um botão que copia o texto criptografado ou descriptografado para a área de transferência, simulando a funcionalidade do atalho "Ctrl+C" ou da opção "copiar" do menu de aplicativos.
-
-## Tecnologias Utilizadas
-
-- [Linguagem de programação utilizada: JavaScript]
-- [Frameworks ou bibliotecas, ex: React, Bootstrap]
-- [Outras ferramentas, ex: Visual Studio Code]
-
-# onealuramcio
-![challenge](https://github.com/maryrl/decodificador-texto-challenge)
 Site no Vercel: https://decodificador-texto-challenge.vercel.app/
