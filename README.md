@@ -41,5 +41,5 @@ A aplicação utiliza as seguintes substituições para criptografia:
 - [Outras ferramentas, ex: Visual Studio Code]
 
 # onealuramcio
-![challenge]()
-Site no Vercel: 
+![challenge](https://github.com/maryrl/decodificador-texto-challenge)
+Site no Vercel: https://decodificador-texto-challenge.vercel.app/
