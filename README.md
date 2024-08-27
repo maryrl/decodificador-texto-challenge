@@ -1,4 +1,4 @@
-﻿# desafioaluraone
+﻿# Challenge-ALURA-ONE
  # Aplicação de Criptografia de Mensagens
 
 Este projeto é uma aplicação para criptografar e descriptografar palavras e textos, permitindo a troca de mensagens secretas entre pessoas que conhecem a chave de criptografia utilizada.
@@ -40,13 +40,6 @@ A aplicação utiliza as seguintes substituições para criptografia:
 - [Frameworks ou bibliotecas, ex: React, Bootstrap]
 - [Outras ferramentas, ex: Visual Studio Code]
 
-## Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone git@github.com:silviacarvalhos2020/desafioaluraone.git
-
-   ![Challanege](assets/challenge.png)
 # onealuramcio
-![challenge](https://github.com/user-attachments/assets/21ae7b87-e22b-46f3-8024-884ab977b26a)
-Site no Vercel: https://onealuramcio.vercel.app/
+![challenge]()
+Site no Vercel: 
